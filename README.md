@@ -1,4 +1,4 @@
-# Perl5_Example_Series_Theme_India
+# Perl5 Example Series(Theme India)
 
 ## Theme
 Theme based learning is one of the learner friendly approach. Mostly it’s helped in creating an interest for the learner and play with programming concepts with their comfort domain. Continuing that, we felt an end-to-end implementation in one theme may be effective to beginers.
@@ -7,13 +7,13 @@ Finally we landed in theme India. Like Perl, India also has vast diversity and s
 
 We continually improving it based on our new learning.
 
-##Samples
+## Samples
 - The samples are sequientally ordered in a conceputal way
 - It has minimal comments on each sections
 - Check the code first, then run it
 - All the samples checked in Perl v5.20.2 in Windows. 
 
-##To Do
+## To Do
 - Language introduction article
 - Natural Language & Perl Alignment article
 - Best Pracices
