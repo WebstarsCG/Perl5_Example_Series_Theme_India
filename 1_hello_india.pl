@@ -1,3 +1,3 @@
 #!/usr/bin/perl -w
 
-    print "Welcome to India\n";
+print "Welcome to India\n";
